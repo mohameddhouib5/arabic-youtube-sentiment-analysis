@@ -6,3 +6,22 @@ cleans and preprocesses the text, and applies **Machine Learning models** to cla
 into **Positive, Negative, or Neutral**.  
 
 ---
+# Main libraries
+pandas
+
+scikit-learn
+
+google-api-python-client
+
+matplotlib
+
+openpyxl
+---
+# Applications
+
+Sentiment analysis in Arabic
+
+Social media analysis
+
+AI & job market perception studies
+ 
