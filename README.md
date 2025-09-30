@@ -1,0 +1,8 @@
+# Arabic YouTube Sentiment Analysis
+
+This project collects **Arabic comments from YouTube videos** related to  
+*“تأثير الذكاء الاصطناعي على فرص العمل”* (The impact of AI on job opportunities),  
+cleans and preprocesses the text, and applies **Machine Learning models** to classify sentiments  
+into **Positive, Negative, or Neutral**.  
+
+---
