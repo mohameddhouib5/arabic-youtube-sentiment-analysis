@@ -5,7 +5,7 @@ This project collects **Arabic comments from YouTube videos** related to
 cleans and preprocesses the text, and applies **Machine Learning models** to classify sentiments  
 into **Positive, Negative, or Neutral**.  
 
-have a look and test :[![Open in Streamlit]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-arabic-youtube-sentiment.streamlit.app](https://arabic-youtube-sentiment-analysis-md.streamlit.app/))
+have a look and test :(https://your-username-arabic-youtube-sentiment.streamlit.app](https://arabic-youtube-sentiment-analysis-md.streamlit.app/)
 
 ---
 # Main libraries
