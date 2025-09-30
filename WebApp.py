@@ -151,7 +151,7 @@ st.markdown("""
 # Add your credits at the top
 st.markdown("""
 <div class="credits">
-    <i class="fas fa-user-tie"></i> Project prepared by  Mohamed Dhouib | Rayen Hafsawi | Wael Nasr | Imed Rebhi   2024-2025
+    <i class="fas fa-user-tie"></i> Project prepared by  Mohamed Dhouib    2024-2025
 </div>
 """, unsafe_allow_html=True)
 
