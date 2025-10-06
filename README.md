@@ -11,16 +11,22 @@ have a look and test :(https://arabic-youtube-sentiment-analysis-md.streamlit.ap
 # Main libraries
 
 pandas
+
 scikit-learn
+
 google-api-python-client
+
 matplotlib
+
 openpyxl
 
 ---
 # Applications
 
 Sentiment analysis in Arabic
+
 Social media analysis
+
 AI & job market perception studies
 
  ---
